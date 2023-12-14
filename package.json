@@ -1,0 +1,24 @@
+{
+	"name": "samo",
+	"version": "1.0.0",
+	"description": "Самостійна робота для дисципліни \"Технології веб-розробки та дизайну\"",
+	"main": "index.js",
+	"scripts": {
+		"dev": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/lsofiabo/Samostiyna.git"
+	},
+	"author": "Софія Бойчук",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/lsofiabo/Samostiyna/issues"
+	},
+	"homepage": "https://github.com/lsofiabo/Samostiyna#readme",
+	"dependencies": {
+		"express": "^4.18.2",
+		"express-handlebars": "^7.1.2"
+	},
+	"type": "module"
+}
